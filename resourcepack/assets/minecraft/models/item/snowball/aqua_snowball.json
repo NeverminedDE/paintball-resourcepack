@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/snowball/brown_snowball"
+		"layer0": "item/snowball/aqua_snowball"
 	}
 }
