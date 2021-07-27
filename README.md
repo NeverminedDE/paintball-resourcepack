@@ -9,7 +9,7 @@
 | [![][black_gun]](resourcepack/assets/minecraft/textures/item/snowball/black_gun.png)                     | black_gun           | 1                  |
 | [![][red_gun]](resourcepack/assets/minecraft/textures/item/snowball/red_gun.png)                         | red_gun             | 2                  |
 | [![][green_gun]](resourcepack/assets/minecraft/textures/item/snowball/green_gun.png)                     | green_gun           | 3                  |
-| [![][brown_gun]](resourcepack/assets/minecraft/textures/item/snowball/brown_gun.png)                     | brown_gun           | 4                  |
+| [![][aqua_gun]](resourcepack/assets/minecraft/textures/item/snowball/aqua_gun.png)                       | aqua_gun            | 4                  |
 | [![][blue_gun]](resourcepack/assets/minecraft/textures/item/snowball/blue_gun.png)                       | blue_gun            | 5                  |
 | [![][purple_gun]](resourcepack/assets/minecraft/textures/item/snowball/purple_gun.png)                   | purple_gun          | 6                  |
 | [![][cyan_gun]](resourcepack/assets/minecraft/textures/item/snowball/cyan_gun.png)                       | cyan_gun            | 7                  |
@@ -25,7 +25,7 @@
 | [![][black_snowball]](resourcepack/assets/minecraft/textures/item/snowball/black_snowball.png)           | black_snowball      | 17                 |
 | [![][red_snowball]](resourcepack/assets/minecraft/textures/item/snowball/red_snowball.png)               | red_snowball        | 18                 |
 | [![][green_snowball]](resourcepack/assets/minecraft/textures/item/snowball/green_snowball.png)           | green_snowball      | 19                 |
-| [![][brown_snowball]](resourcepack/assets/minecraft/textures/item/snowball/brown_snowball.png)           | brown_snowball      | 20                 |
+| [![][aqua_snowball]](resourcepack/assets/minecraft/textures/item/snowball/aqua_snowball.png)             | aqua_snowball       | 20                 |
 | [![][blue_snowball]](resourcepack/assets/minecraft/textures/item/snowball/blue_snowball.png)             | blue_snowball       | 21                 |
 | [![][purple_snowball]](resourcepack/assets/minecraft/textures/item/snowball/purple_snowball.png)         | purple_snowball     | 22                 |
 | [![][cyan_snowball]](resourcepack/assets/minecraft/textures/item/snowball/cyan_snowball.png)             | cyan_snowball       | 23                 |
@@ -43,7 +43,7 @@
 [red_gun]: resourcepack/assets/minecraft/textures/item/snowball/red_gun.png
 [black_gun]: resourcepack/assets/minecraft/textures/item/snowball/black_gun.png
 [green_gun]: resourcepack/assets/minecraft/textures/item/snowball/green_gun.png
-[brown_gun]: resourcepack/assets/minecraft/textures/item/snowball/brown_gun.png
+[aqua_gun]: resourcepack/assets/minecraft/textures/item/snowball/aqua_gun.png
 [blue_gun]: resourcepack/assets/minecraft/textures/item/snowball/blue_gun.png
 [purple_gun]: resourcepack/assets/minecraft/textures/item/snowball/purple_gun.png
 [cyan_gun]: resourcepack/assets/minecraft/textures/item/snowball/cyan_gun.png
@@ -59,7 +59,7 @@
 [black_snowball]: resourcepack/assets/minecraft/textures/item/snowball/black_snowball.png
 [red_snowball]: resourcepack/assets/minecraft/textures/item/snowball/red_snowball.png
 [green_snowball]: resourcepack/assets/minecraft/textures/item/snowball/green_snowball.png
-[brown_snowball]: resourcepack/assets/minecraft/textures/item/snowball/brown_snowball.png
+[aqua_snowball]: resourcepack/assets/minecraft/textures/item/snowball/aqua_snowball.png
 [blue_snowball]: resourcepack/assets/minecraft/textures/item/snowball/blue_snowball.png
 [purple_snowball]: resourcepack/assets/minecraft/textures/item/snowball/purple_snowball.png
 [cyan_snowball]: resourcepack/assets/minecraft/textures/item/snowball/cyan_snowball.png
